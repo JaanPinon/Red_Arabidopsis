@@ -1,0 +1,361 @@
+# Organism: A. thaliana
+# Application version: 3.6.0
+# Database version: 13 April 2021 00:00:00
+# Network generated on: 24 June 2021
+# Author: GeneMANIA (genemania.org)
+# Notes: Network weight reflects the data source relevance for predicting the function of interest
+Entity 1	Entity 2	Weight	Network group	Network
+PCNA	XRCC3	0.0162987	Co-expression	Dinneny-Benfey-2008 F
+PCNA	MLH1	0.018357573	Co-expression	Dinneny-Benfey-2008 F
+PMS1	MSH3	0.011262597	Co-expression	Dinneny-Benfey-2008 F
+RAD51	PCNA2	0.01434916	Co-expression	Dinneny-Benfey-2008 F
+AT1G18090	RAD50	0.019528588	Co-expression	Dinneny-Benfey-2008 F
+OGG1	MSH6	0.014348865	Co-expression	Dinneny-Benfey-2008 F
+MLH1	RAD50	0.011208996	Co-expression	Queval-Noctor-2012
+PCNA	MSH2	0.009747747	Co-expression	Queval-Noctor-2012
+PCNA2	MSH2	0.012484294	Co-expression	Queval-Noctor-2012
+PCNA2	PCNA	0.008876038	Co-expression	Queval-Noctor-2012
+MSH2	RAD50	0.018920567	Co-expression	Zuber-Gallardo-2010 A
+MSH3	MSH6	0.017020423	Co-expression	Zuber-Gallardo-2010 A
+PMS1	RAD50	0.020339055	Co-expression	Zuber-Gallardo-2010 A
+ATRAD51C	MLH1	0.024056932	Co-expression	Zuber-Gallardo-2010 A
+ATRAD51C	PCNA	0.011194071	Co-expression	Zuber-Gallardo-2010 A
+PCNA2	PCNA	0.0055154655	Co-expression	Zuber-Gallardo-2010 A
+OGG1	MSH2	0.02140362	Co-expression	Zuber-Gallardo-2010 A
+OGG1	PMS1	0.021911137	Co-expression	Zuber-Gallardo-2010 A
+MSH2	MLH1	0.01351598	Co-expression	Tintor-Saijo-2013
+PMS1	MSH2	0.015323107	Co-expression	Tintor-Saijo-2013
+PCNA2	MSH2	0.010209944	Co-expression	Tintor-Saijo-2013
+PCNA2	PCNA	0.0075187497	Co-expression	Tintor-Saijo-2013
+AT1G18090	MSH2	0.00869529	Co-expression	Tintor-Saijo-2013
+AT1G18090	PCNA2	0.0074580563	Co-expression	Tintor-Saijo-2013
+OGG1	MSH6	0.023196619	Co-expression	Tintor-Saijo-2013
+MSH2	XRCC3	0.010335712	Co-expression	Dinneny-Benfey-2008 D
+ATRAD51C	MSH2	0.008598771	Co-expression	Dinneny-Benfey-2008 D
+RAD51	PCNA	0.015503136	Co-expression	Dinneny-Benfey-2008 D
+MEE43	MSH6	0.011533398	Co-expression	Dinneny-Benfey-2008 D
+AT1G18090	MSH2	0.011362959	Co-expression	Dinneny-Benfey-2008 D
+OGG1	MSH4	0.015555261	Co-expression	Dinneny-Benfey-2008 D
+MSH2	MSH6	0.017566867	Co-expression	Mustroph-Bailey-Serres-2009 C
+PCNA2	PCNA	0.009864907	Co-expression	Mustroph-Bailey-Serres-2009 C
+RAD51	MSH2	0.0220856	Co-expression	Mustroph-Bailey-Serres-2009 C
+MSH2	MSH6	0.01628187	Co-expression	Bustos-Paz-Ares-2010
+PCNA2	PCNA	0.009122826	Co-expression	Bustos-Paz-Ares-2010
+MSH2	MSH6	0.010468117	Co-expression	Arae-Chiba-2017
+PMS1	MSH6	0.010880137	Co-expression	Arae-Chiba-2017
+PMS1	MSH2	0.01255522	Co-expression	Arae-Chiba-2017
+PCNA2	PCNA	0.008747421	Co-expression	Arae-Chiba-2017
+MEE43	MSH2	0.015877664	Co-expression	Arae-Chiba-2017
+OGG1	PMS1	0.013936388	Co-expression	Arae-Chiba-2017
+MSH2	MSH6	0.009961854	Co-expression	Kram-Carter-2009
+PMS1	DMC1	0.011312031	Co-expression	Kram-Carter-2009
+PMS1	RAD50	0.012103334	Co-expression	Kram-Carter-2009
+PCNA2	PCNA	0.013403121	Co-expression	Kram-Carter-2009
+RAD51	MRE11	0.013708851	Co-expression	Kram-Carter-2009
+AT1G18090	MSH2	0.011842449	Co-expression	Kram-Carter-2009
+OGG1	MLH1	0.008370827	Co-expression	Kram-Carter-2009
+MSH6	RAD50	0.009347473	Co-localization	Brady-Benfey-2007
+PCNA	MLH1	0.010683877	Co-localization	Brady-Benfey-2007
+MSH4	MLH3	0.013141374	Co-localization	Brady-Benfey-2007
+PCNA2	PCNA	0.0067516547	Co-localization	Brady-Benfey-2007
+RAD51	XRCC2	0.014646135	Co-localization	Brady-Benfey-2007
+RAD51	MSH3	0.01708046	Co-localization	Brady-Benfey-2007
+MEE43	XRCC2	0.010938404	Co-localization	Brady-Benfey-2007
+AT1G18090	MSH2	0.0115772635	Co-localization	Brady-Benfey-2007
+MSH2	MSH6	0.70710677	Physical Interactions	Lee-Rhee-2010 Protein interactions
+MSH3	MSH2	0.70710677	Physical Interactions	Lee-Rhee-2010 Protein interactions
+ATRAD51C	XRCC3	0.8312539	Physical Interactions	Lee-Rhee-2010 Protein interactions
+MSH4	MLH3	1	Physical Interactions	Lee-Rhee-2010 Protein interactions
+RAD51	DMC1	0.23366275	Physical Interactions	Lee-Rhee-2010 Protein interactions
+MEE43	DMC1	0.35533166	Physical Interactions	Lee-Rhee-2010 Protein interactions
+MEE43	RAD51	0.21924497	Physical Interactions	Lee-Rhee-2010 Protein interactions
+BRCA2B	DMC1	0.26327989	Physical Interactions	Lee-Rhee-2010 Protein interactions
+BRCA2B	RAD51	0.16244766	Physical Interactions	Lee-Rhee-2010 Protein interactions
+MSH2	MSH6	0.57735026	Physical Interactions	IREF-quickgo
+MSH3	MSH2	0.57735026	Physical Interactions	IREF-quickgo
+MRE11	RAD50	0.70710677	Physical Interactions	IREF-quickgo
+MSH2	MSH6	0.5464087	Predicted	Lee-Rhee-2010 Co-citation worm2arabidopsis
+AT5G46370	MSH2	0.28843054	Predicted	Lee-Rhee-2010 Co-citation worm2arabidopsis
+TPK5	MSH2	0.28843054	Predicted	Lee-Rhee-2010 Co-citation worm2arabidopsis
+TPK3	MSH2	0.28092957	Predicted	Lee-Rhee-2010 Co-citation worm2arabidopsis
+RAD51	MRE11	0.1314168	Predicted	Lee-Rhee-2010 Co-citation worm2arabidopsis
+KCO3	MSH2	0.2562693	Predicted	Lee-Rhee-2010 Co-citation worm2arabidopsis
+MLH1	MSH6	0.049365696	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH2	XRCC3	0.019642878	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH2	MSH6	0.036230944	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH2	MLH1	0.038117357	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA	XRCC3	0.024682684	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA	MSH6	0.026367078	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA	MLH1	0.028153317	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA	MSH2	0.023288889	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH3	MSH6	0.05480085	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH3	MLH1	0.05528931	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH3	MSH2	0.03962438	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH3	PCNA	0.023512129	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PMS1	MSH6	0.038976587	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PMS1	MLH1	0.041005954	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PMS1	MSH2	0.028182467	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PMS1	PCNA	0.02350402	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PMS1	MSH3	0.039332274	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MLH3	MSH6	0.0732543	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MLH3	MLH1	0.09147509	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MLH3	MSH2	0.050583623	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MLH3	MSH3	0.08073649	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MLH3	PMS1	0.056349836	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MRE11	XRCC3	0.03672074	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MRE11	MSH2	0.011034246	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MRE11	PCNA	0.013916465	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MRE11	MSH3	0.017840553	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MRE11	PMS1	0.012386786	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH4	MSH6	0.06077728	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH4	MLH1	0.04995052	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH4	MSH2	0.040961314	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH4	MSH3	0.06145785	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH4	PMS1	0.03586836	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH4	MLH3	0.073611215	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA2	XRCC3	0.024669254	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA2	MSH6	0.026266946	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA2	MLH1	0.028039407	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA2	MSH2	0.023114072	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA2	MSH3	0.023494633	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA2	PMS1	0.02335739	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+PCNA2	MRE11	0.013913521	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	XRCC3	0.02764134	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	MSH6	0.03813713	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	MLH1	0.04433373	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	MSH2	0.031536534	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	MSH3	0.04220004	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	PMS1	0.026019866	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	MLH3	0.05495361	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	MRE11	0.021905502	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+EXO1	MSH4	0.031029593	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	XRCC3	0.02764134	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	MSH6	0.03813713	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	MLH1	0.04433373	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	MSH2	0.031536534	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	MSH3	0.04220004	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	PMS1	0.026019866	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	MLH3	0.05495361	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	MRE11	0.021905502	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	MSH4	0.031029593	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+AT1G18090	EXO1	0.037534036	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+OGG1	MSH6	0.044282906	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+OGG1	MLH1	0.040745024	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+OGG1	MSH2	0.03326391	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+MSH6	DMC1	0.05785671	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MLH1	MSH6	0.030261766	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH2	DMC1	0.05336116	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH2	MLH1	0.03633552	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH3	DMC1	0.061021026	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH3	MLH1	0.030164374	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+PMS1	MSH6	0.030741133	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+PMS1	MSH2	0.037152138	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+PMS1	MSH3	0.033028148	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MLH3	MSH6	0.02638743	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MLH3	MSH2	0.03504294	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MLH3	MSH3	0.02553737	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MRE11	RAD50	0.12593552	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH4	DMC1	0.07248444	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH4	MLH1	0.03554088	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH4	PMS1	0.038433447	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MSH4	MLH3	0.034143157	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+RAD51	MSH2	0.05562977	Predicted	Lee-Rhee-2010 Gene neighbourhoods
+MLH1	MSH6	0.05106454	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+MSH2	MSH6	0.038608618	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA	XRCC3	0.015419583	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA	RAD50	0.008094435	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA	MSH6	0.025279898	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA	MLH1	0.03043645	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA	MSH2	0.02298927	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+MSH3	MSH6	0.10459234	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+MSH3	MSH2	0.09531059	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PMS1	MSH6	0.043332424	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PMS1	MLH1	0.05214932	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PMS1	MSH2	0.03943478	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PMS1	PCNA	0.025822518	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PMS1	MSH3	0.10679161	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+MLH3	MSH6	0.45269692	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+MRE11	RAD50	0.005229563	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA2	XRCC3	0.015403741	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA2	RAD50	0.008085623	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA2	MSH6	0.02525835	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA2	MLH1	0.030410975	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA2	MSH2	0.022968573	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+PCNA2	PMS1	0.0258007	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+RAD51	XRCC3	0.010395715	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+RAD51	RAD50	0.00548693	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+RAD51	MLH1	0.020314755	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+RAD51	MSH2	0.015375476	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+RAD51	MSH3	0.041687235	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	RAD50	0.0145606855	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	MLH1	0.055032637	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	MSH2	0.04158329	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	PCNA	0.02722398	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	MSH3	0.11282888	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	PMS1	0.04669501	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	MRE11	0.017346181	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	MSH4	0.28661108	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+EXO1	PCNA2	0.027199753	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	RAD50	0.0145606855	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	MLH1	0.055032637	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	MSH2	0.04158329	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	PCNA	0.02722398	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	MSH3	0.11282888	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	PMS1	0.04669501	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	MRE11	0.017346181	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	MSH4	0.28661108	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+AT1G18090	PCNA2	0.027199753	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+OGG1	MSH6	0.06292426	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+OGG1	MSH2	0.05732438	Predicted	Lee-Rhee-2010 Genetic interactions yeast2arabidopsis
+MSH2	MSH6	1	Predicted	Lee-Rhee-2010 Protein interactions worm2arabidopsis
+PMS1	MLH1	0.5622989	Predicted	Lee-Rhee-2010 Protein interactions worm2arabidopsis
+MRE11	RAD50	1	Predicted	Lee-Rhee-2010 Protein interactions worm2arabidopsis
+AT2G33370	MLH1	0.41135633	Predicted	Lee-Rhee-2010 Protein interactions worm2arabidopsis
+AT3G04400	MLH1	0.41135633	Predicted	Lee-Rhee-2010 Protein interactions worm2arabidopsis
+AT1G04480	MLH1	0.41135633	Predicted	Lee-Rhee-2010 Protein interactions worm2arabidopsis
+MSH2	MSH6	0.33401805	Predicted	Lee-Rhee-2010 protein interactions from complexes yeast2arabidopsis
+MSH3	MSH6	0.32075796	Predicted	Lee-Rhee-2010 protein interactions from complexes yeast2arabidopsis
+MSH3	MSH2	0.34234932	Predicted	Lee-Rhee-2010 protein interactions from complexes yeast2arabidopsis
+MSH4	MSH6	0.3332558	Predicted	Lee-Rhee-2010 protein interactions from complexes yeast2arabidopsis
+MSH4	MSH2	0.33080763	Predicted	Lee-Rhee-2010 protein interactions from complexes yeast2arabidopsis
+MSH4	MSH3	0.33873382	Predicted	Lee-Rhee-2010 protein interactions from complexes yeast2arabidopsis
+MSH2	MSH6	1	Predicted	Lee-Rhee-2010 Y2H worm2arabidopsis
+PMS1	MLH1	0.57991225	Predicted	Lee-Rhee-2010 Y2H worm2arabidopsis
+MRE11	RAD50	1	Predicted	Lee-Rhee-2010 Y2H worm2arabidopsis
+AT2G33370	MLH1	0.40282586	Predicted	Lee-Rhee-2010 Y2H worm2arabidopsis
+AT3G04400	MLH1	0.40282586	Predicted	Lee-Rhee-2010 Y2H worm2arabidopsis
+AT1G04480	MLH1	0.40282586	Predicted	Lee-Rhee-2010 Y2H worm2arabidopsis
+MLH1	MSH6	0.046497412	Predicted	PPI-Predicted (Interologs)
+MSH2	MSH6	0.035635967	Predicted	PPI-Predicted (Interologs)
+MSH2	MLH1	0.036848675	Predicted	PPI-Predicted (Interologs)
+PCNA	XRCC3	0.01674312	Predicted	PPI-Predicted (Interologs)
+PCNA	RAD50	0.011159348	Predicted	PPI-Predicted (Interologs)
+PCNA	MSH6	0.028965611	Predicted	PPI-Predicted (Interologs)
+PCNA	MLH1	0.02976273	Predicted	PPI-Predicted (Interologs)
+PCNA	MSH2	0.02461666	Predicted	PPI-Predicted (Interologs)
+MSH3	MSH6	0.07764771	Predicted	PPI-Predicted (Interologs)
+MSH3	MLH1	0.077903904	Predicted	PPI-Predicted (Interologs)
+MSH3	MSH2	0.06062426	Predicted	PPI-Predicted (Interologs)
+MSH3	PCNA	0.04676088	Predicted	PPI-Predicted (Interologs)
+PMS1	MSH6	0.087762676	Predicted	PPI-Predicted (Interologs)
+PMS1	MLH1	0.10198501	Predicted	PPI-Predicted (Interologs)
+PMS1	MSH2	0.072297074	Predicted	PPI-Predicted (Interologs)
+PMS1	PCNA	0.057186194	Predicted	PPI-Predicted (Interologs)
+PMS1	MSH3	0.14475961	Predicted	PPI-Predicted (Interologs)
+ATRAD51C	XRCC3	0.14066777	Predicted	PPI-Predicted (Interologs)
+MLH3	MSH6	0.23144339	Predicted	PPI-Predicted (Interologs)
+MLH3	MLH1	0.26485482	Predicted	PPI-Predicted (Interologs)
+MRE11	RAD50	0.008430037	Predicted	PPI-Predicted (Interologs)
+MSH4	MLH1	0.13530688	Predicted	PPI-Predicted (Interologs)
+PCNA2	MSH6	0.029153638	Predicted	PPI-Predicted (Interologs)
+PCNA2	MSH2	0.02485769	Predicted	PPI-Predicted (Interologs)
+PCNA2	MSH3	0.04524561	Predicted	PPI-Predicted (Interologs)
+RAD51	XRCC3	0.01124674	Predicted	PPI-Predicted (Interologs)
+RAD51	RAD50	0.006055585	Predicted	PPI-Predicted (Interologs)
+RAD51	MLH1	0.017025786	Predicted	PPI-Predicted (Interologs)
+RAD51	MSH2	0.0122427745	Predicted	PPI-Predicted (Interologs)
+RAD51	MSH3	0.02740581	Predicted	PPI-Predicted (Interologs)
+AT2G33370	MLH1	0.090578444	Predicted	PPI-Predicted (Interologs)
+EXO1	RAD50	0.004653066	Predicted	PPI-Predicted (Interologs)
+EXO1	MLH1	0.017940763	Predicted	PPI-Predicted (Interologs)
+EXO1	MSH2	0.020218886	Predicted	PPI-Predicted (Interologs)
+EXO1	PCNA	0.010536502	Predicted	PPI-Predicted (Interologs)
+EXO1	MSH3	0.10111518	Predicted	PPI-Predicted (Interologs)
+EXO1	PMS1	0.038073145	Predicted	PPI-Predicted (Interologs)
+EXO1	MRE11	0.021123702	Predicted	PPI-Predicted (Interologs)
+EXO1	MSH4	0.10851865	Predicted	PPI-Predicted (Interologs)
+EXO1	PCNA2	0.009200184	Predicted	PPI-Predicted (Interologs)
+OGG1	MSH6	0.108286485	Predicted	PPI-Predicted (Interologs)
+OGG1	MSH2	0.08890956	Predicted	PPI-Predicted (Interologs)
+MLH1	MSH6	0.098867185	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MSH2	MSH6	0.11171817	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MSH2	MLH1	0.047517385	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PCNA	MSH6	0.056912974	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PCNA	MLH1	0.0223819	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PCNA	MSH2	0.027860777	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MSH3	MSH6	0.23549457	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MSH3	MLH1	0.10444861	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MSH3	MSH2	0.111344494	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MSH3	PCNA	0.05215268	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PMS1	MSH6	0.29440865	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PMS1	MLH1	0.12808111	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PMS1	MSH2	0.14213623	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PMS1	MSH3	0.30037266	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MLH3	MLH1	0.2791532	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MRE11	RAD50	0.5746534	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PCNA2	MSH6	0.059209082	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PCNA2	MLH1	0.023268564	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PCNA2	MSH2	0.02897927	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+PCNA2	MSH3	0.05421689	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+RAD51	XRCC3	0.44948536	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+EXO1	MLH1	0.16830806	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+EXO1	MSH2	0.18108708	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+AT1G18090	MLH1	0.16830806	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+AT1G18090	MSH2	0.18108708	Predicted	Lee-Rhee-2010 protein interactions yeast2arabidopsis
+MSH2	MLH1	0.01568279	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+MRE11	MSH2	0.0039461786	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+MRE11	PCNA	0.002855128	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+PCNA2	MRE11	0.0029298598	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+RAD51	MSH2	0.007039365	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+RAD51	PCNA	0.005424147	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+RAD51	MRE11	0.0072609554	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+RAD51	PCNA2	0.0055593583	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+AT1G18090	MRE11	0.0050956435	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+AT1G18090	MSH4	0.050502025	Predicted	Lee-Rhee-2010 Co-expression worm2arabidopsis
+MSH2	MSH6	0.019763509	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+PCNA	MSH6	0.018562235	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+PCNA	MSH2	0.013109012	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+PCNA2	MSH6	0.019470064	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+PCNA2	MSH2	0.013690273	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+RAD51	PCNA	0.012253526	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+RAD51	PCNA2	0.011924759	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+EXO1	MSH6	0.030598609	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+EXO1	PCNA	0.012198073	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+EXO1	PCNA2	0.011806233	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+AT1G18090	MSH6	0.02965804	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+AT1G18090	PCNA	0.011823117	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+AT1G18090	PCNA2	0.011443322	Predicted	Lee-Rhee-2010 Co-expression yeast2arabidopsis
+PCNA	XRCC3	0.0032085844	Predicted	Lee-Rhee-2010 Co-inheritance
+ATRAD51C	PCNA	0.004233723	Predicted	Lee-Rhee-2010 Co-inheritance
+PCNA2	XRCC3	0.0032085844	Predicted	Lee-Rhee-2010 Co-inheritance
+PCNA2	ATRAD51C	0.004233723	Predicted	Lee-Rhee-2010 Co-inheritance
+AT2G33370	XRCC3	0.0021876718	Predicted	Lee-Rhee-2010 Co-inheritance
+AT2G33370	PCNA	0.0022942252	Predicted	Lee-Rhee-2010 Co-inheritance
+AT2G33370	PCNA2	0.0022942252	Predicted	Lee-Rhee-2010 Co-inheritance
+AT3G04400	XRCC3	0.002193948	Predicted	Lee-Rhee-2010 Co-inheritance
+AT3G04400	PCNA	0.002300807	Predicted	Lee-Rhee-2010 Co-inheritance
+AT3G04400	PCNA2	0.002300807	Predicted	Lee-Rhee-2010 Co-inheritance
+AT1G04480	XRCC3	0.0021876718	Predicted	Lee-Rhee-2010 Co-inheritance
+AT1G04480	PCNA	0.0022942252	Predicted	Lee-Rhee-2010 Co-inheritance
+AT1G04480	PCNA2	0.0022942252	Predicted	Lee-Rhee-2010 Co-inheritance
+DMC1	XRCC2	0.040691834	Shared protein domains	INTERPRO
+XRCC3	XRCC2	0.0638611	Shared protein domains	INTERPRO
+XRCC3	DMC1	0.0896108	Shared protein domains	INTERPRO
+MSH2	MSH6	0.10407181	Shared protein domains	INTERPRO
+MSH3	MSH6	0.15325332	Shared protein domains	INTERPRO
+MSH3	MSH2	0.12840879	Shared protein domains	INTERPRO
+PMS1	MLH1	0.0774892	Shared protein domains	INTERPRO
+ATRAD51C	XRCC2	0.05992058	Shared protein domains	INTERPRO
+ATRAD51C	DMC1	0.11684358	Shared protein domains	INTERPRO
+ATRAD51C	XRCC3	0.13186944	Shared protein domains	INTERPRO
+MLH3	MLH1	0.0774892	Shared protein domains	INTERPRO
+MLH3	PMS1	0.1176291	Shared protein domains	INTERPRO
+MSH4	MSH6	0.08250701	Shared protein domains	INTERPRO
+MSH4	MSH2	0.1417276	Shared protein domains	INTERPRO
+MSH4	MSH3	0.1018015	Shared protein domains	INTERPRO
+PCNA2	PCNA	1	Shared protein domains	INTERPRO
+TPK5	AT5G46370	0.11878861	Shared protein domains	INTERPRO
+TPK3	AT5G46370	0.0431811	Shared protein domains	INTERPRO
+TPK3	TPK5	0.12189712	Shared protein domains	INTERPRO
+RAD51	XRCC2	0.040691834	Shared protein domains	INTERPRO
+RAD51	DMC1	0.10344095	Shared protein domains	INTERPRO
+RAD51	XRCC3	0.0896108	Shared protein domains	INTERPRO
+RAD51	ATRAD51C	0.11684358	Shared protein domains	INTERPRO
+KCO3	AT5G46370	0.02970592	Shared protein domains	INTERPRO
+KCO3	TPK5	0.06611844	Shared protein domains	INTERPRO
+KCO3	TPK3	0.030483276	Shared protein domains	INTERPRO
+AT3G04400	AT2G33370	0.20327318	Shared protein domains	INTERPRO
+AT1G04480	AT2G33370	0.20327318	Shared protein domains	INTERPRO
+AT1G04480	AT3G04400	0.20327318	Shared protein domains	INTERPRO
+AT1G18090	EXO1	0.14880866	Shared protein domains	INTERPRO
+BRCA2B	MEE43	0.27422386	Shared protein domains	INTERPRO
